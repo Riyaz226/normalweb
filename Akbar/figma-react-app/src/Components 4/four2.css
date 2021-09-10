@@ -1,0 +1,215 @@
+.border8{
+    position: absolute;
+    width: 1350px;
+    height: 503px;
+left: 0px;
+top: 3777px;
+background: #2c3544;
+}
+
+@media only screen and (max-width:550px) {
+    .border8{
+        position: absolute;
+    width: 1743px;
+    height: 503px;
+left: 0px;
+top: 4425px;
+
+        
+    }
+}
+@media only screen and (max-width:400px) {
+    .border8{
+        position: absolute;
+        width: 623px;
+        height: 594px;
+left: 0px;
+top: 4679px;
+     }
+}
+img.thirty3{
+    position: absolute;
+    width: 384px;
+    margin-left: 180px;
+    margin-top: 85px;
+}
+
+@media only screen and (max-width:550px) {
+    img.thirty3{
+        position: absolute;
+        width: 384px;
+        margin-left: 290px;
+        margin-top: 85px;
+    }
+}    
+@media only screen and (max-width:400px) {
+    img.thirty3{
+       display: none;
+    }
+}
+
+img.thirty4{
+    margin-left:1123px;
+ height: 230px;   
+}
+
+@media only screen and (max-width:550px) {
+    img.thirty4{
+        margin-left:1553px;
+ height: 230px;   
+    }
+}    
+@media only screen and (max-width:400px) {
+    img.thirty4{
+        margin-left:433px;
+        height: 213px;   
+    }
+}
+
+img.thirty5{
+    width: 63px;
+    margin-top: -87px;
+    margin-left: 520px;
+}
+
+@media only screen and (max-width:550px) {
+    img.thirty5{
+        width: 83px;
+        margin-top: -86px;
+        margin-left: 610px;
+    }
+}    
+@media only screen and (max-width:400px) {
+    img.thirty5{
+     display: none;
+    }
+}
+
+.ach{
+    position: absolute;
+width: 155px;
+height: 34px;
+left: 728px;
+top: 174px;
+font-family: Heebo;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 140%;
+display: flex;
+align-items: center;
+text-align: center;
+text-transform: capitalize;
+color: #EAAB27;
+}
+
+@media only screen and (max-width:550px) {
+    .ach{
+        position: absolute;
+    width: 155px;
+    height: 34px;
+    left: 928px;
+    top: 174px;
+    font-size: 26px;
+    }
+}    
+@media only screen and (max-width:400px) {
+    .ach{
+        position: absolute;
+    width: 155px;
+    height: 34px;
+    left: 64px;
+    top: 104px;
+    font-size: 24px;
+    }
+}
+
+.at{
+    position: absolute;
+width: 483px;
+height: 200px;
+left: 728px;
+top: 210px;
+font-family: Heebo;
+font-style: normal;
+font-weight: normal;
+font-size: 18.5px;
+line-height: 140%;
+display: flex;
+align-items: center;
+color: white;
+}
+
+@media only screen and (max-width:550px) {
+    .at{
+        position: absolute;
+        width: 483px;
+        height: 200px;
+        left: 928px;
+        top: 214px;
+    }
+}    
+@media only screen and (max-width:400px) {
+    .at{
+    display: none;
+    }
+}
+
+.at1{
+    display: none;
+}
+@media only screen and (max-width:400px) {
+    .at1{
+        position: absolute;
+        width: 412px;
+        height: 44px;
+        left: 65px;
+        top: 215.5px;
+        font-family: Heebo;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 18.5px;
+        line-height: 140%;
+        display: flex;
+        align-items: center;
+        color:white;
+    
+    }
+}
+
+img.thirty6{
+    width: 123px;
+    float: left;
+    height: 180px;
+    margin-top:88.5px;
+    
+}
+
+@media only screen and (max-width:550px) {
+    img.thirty6{
+        width: 173px;
+        float: left;
+        height: 180px;
+        margin-top:88.5px;
+        
+    }
+}   
+@media only screen and (max-width:400px) {
+    img.thirty6{
+      display: none;
+    }
+}    
+
+
+img.thirty7{
+    display: none;
+
+}
+@media only screen and (max-width:400px) {
+    img.thirty7{
+        display: initial;
+        width: 443px;
+      margin-top:149.5px;
+      margin-left: 68.5px;
+    }
+}
